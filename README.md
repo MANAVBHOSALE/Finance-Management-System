@@ -1,3 +1,5 @@
+AI Finance Platform — React 19, Next.js 15, Tailwind, shadcn/ui, Supabase (Postgres), Prisma, Clerk, Inngest, Arcjet; AI insights + realtime; p95 ~[300–700] ms; [500+ users]; errors ↓[35%].
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
